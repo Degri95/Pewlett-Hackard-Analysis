@@ -21,6 +21,7 @@ After the tables were created I imported the original CSV files into the corresp
 ![Image of importing tables](/Resources/Importing.PNG)
 
 ### Analysis results
+#### Deliverable 1
 Our first deliverable is to retrieve the number of employees retiring by title. The following SQL query was used to select our retring employees (Born between 01-01-1952 and 12-31-1955) and their titles. 
 
 ```
@@ -76,7 +77,8 @@ Now the count of each title was stored into a new table.
 
 ![retiring titles table](/Resources/retiring_titles.PNG)
 
-The second deliverable is to create a mentorship-eligibility table that holds the current employees who were born beween 01-01-1965 and 12-31-1965 with their most recent title. A query was created to create our table.
+#### Deliverable 2
+The second deliverable is to create a mentorship-eligibility table that holds the current employees who were born beween 01-01-1965 and 12-31-1965 with their most recent title. A query was created to create the table.
 
 ```
 SELECT DISTINCT ON (e.emp_no) e.emp_no, 
@@ -99,4 +101,5 @@ ORDER BY e.emp_no
 ```
 ![mentor eligibility table](/Resources/mentor_eligibility.PNG)
 
+#### Major Points
 
