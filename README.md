@@ -106,8 +106,12 @@ ORDER BY e.emp_no
 
 ![retiring titles table](/Resources/retiring_titles.PNG)
 
-- our mentor eligibility table had a count of 1,549. This number is only 2.14% of the employees retiring, leaving 70,909 roles to fill.
+- our mentor eligibility table had a count of 1,549. This number is only 2.14% of the employees retiring.
 
 ![eligibility count table](/Resources/eligibility_count.PNG)
 
-- out of the 1,549 employees eligible for mentorship 724 (46.7%) are already in a senior role. 748 (48.3%) out of the 1,549 employees have an engineering role.
+- out of the 1,549 employees eligible for the mentorship program, 724 (46.7%) are in a senior role. 748 (48.3%) out of the 1,549 employees have an engineering role.
+
+- The ratio of eligible mentors to mentee ratio to would be about 1:47.
+
+## Summary
