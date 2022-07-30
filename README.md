@@ -102,8 +102,10 @@ ORDER BY e.emp_no
 ![mentor eligibility table](/Resources/mentor_eligibility.PNG)
 
 #### Major Points
-- The retiring titles table shows out of a total of 72,458 employees retiring, 50,842 were in a senior role (70.2%). 36,291 out of the 72,458 had an engineer role (50.1%). 
+- The retiring titles table shows out of a total of 72,458 employees retiring, 50,842 (70.2%) were in a senior role . 36,291 out of the 72,458 had an engineer role (50.1%). 
+
 ![retiring titles table](/Resources/retiring_titles.PNG)
+
 - our mentor eligibility table had a count of 1,549. This number is only 2.14% of the employees retiring, leaving 70,909 roles to fill.
 ![eligibility count table](/Resources/mentor_eligibility.PNG)
 - out of the 1,549 employees eligible for mentorship 724 (46.7%) are already in a senior role. 748 (48.3%) out of the 1,549 employees have an engineering role.
