@@ -116,3 +116,9 @@ ORDER BY e.emp_no
 
 ## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+A total number of 72,458 roles will need to be filled as the silver tsunami begins to hit. 
+This number was able to be queried by counting the unique titles table, since it has already been filtered by birth date and if the employee is currently employed.
+
+![retiring count](/Resources/retiring_count.png)
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
