@@ -78,7 +78,7 @@ Now the count of each title was stored into a new table.
 ![retiring titles table](/Resources/retiring_titles.PNG)
 
 #### Deliverable 2
-The second deliverable is to create a mentorship-eligibility table that holds the current employees who were born beween 01-01-1965 and 12-31-1965 with their most recent title. A query was created to create the table.
+The second deliverable is to create a mentorship-eligibility table that holds the current employees who were born beween 01-01-1965 and 12-31-1965 with their most recent title. A query was created to build the table.
 
 ```
 SELECT DISTINCT ON (e.emp_no) e.emp_no, 
@@ -115,3 +115,4 @@ ORDER BY e.emp_no
 - The ratio of eligible mentors to mentee ratio to would be about 1:47.
 
 ## Summary
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
