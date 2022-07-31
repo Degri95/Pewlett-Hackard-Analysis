@@ -22,7 +22,7 @@ After the tables were created I imported the original CSV files into the corresp
 
 ### Analysis Results
 #### Deliverable 1
-Our first deliverable is to retrieve the number of employees retiring by title. The following SQL query was used to select our retring employees (Born between 01-01-1952 and 12-31-1955) and their titles. 
+Our first deliverable is to retrieve the number of employees retiring by title. The following SQL query was used to select our retiring employees (Born between 01-01-1952 and 12-31-1955) and their titles. 
 
 ```
 SELECT
@@ -128,7 +128,7 @@ Modifying the eligibility query to include 01-01-1965 to 12-31-1966 yielded the 
 
 ![expanded mentor eligibility2](/Resources/expanded_mentor_eligibility2.PNG)
 
-Modifying the eligibility query to include 01-01-1964 to 12-31-1965 yeilded 19,905 qualified mentors. dropping the mentor to mentee ratio from 1:47 to 1:4.
+Modifying the eligibility query to include 01-01-1964 to 12-31-1965 yeilded 19,905 qualified mentors. Dropping the mentor to mentee ratio from 1:47 to 1:4.
 
 ![expanded mentor eligibility](/Resources/expanded_mentor_eligibility.PNG)
 
