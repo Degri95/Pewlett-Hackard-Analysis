@@ -128,7 +128,8 @@ Modifying the eligibility query to include 01-01-1965 to 12-31-1966 yielded the 
 
 ![expanded mentor eligibility2](/Resources/expanded_mentor_eligibility2.PNG)
 
-Modifying the eligibility query to include 01-01-1964 to 12-31-1965 yeilded 19,905 qualified mentors. dropping the average ratio from 1:47 to 1:4.
+Modifying the eligibility query to include 01-01-1964 to 12-31-1965 yeilded 19,905 qualified mentors. dropping the mentor to mentee ratio from 1:47 to 1:4.
 
 ![expanded mentor eligibility](/Resources/expanded_mentor_eligibility.PNG)
 
+Expanding the eligibility for mentorship to include 01-01-1964 to 12-31-1965 would be my recommendation based on my analysis.
