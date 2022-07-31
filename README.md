@@ -122,3 +122,13 @@ This number was able to be queried by counting the unique titles table, since it
 ![retiring count](/Resources/retiring_count.png)
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+With an average mentor to mentee ratio of 1:47, I'd say that there isn't enough qualified employees within the parameters used to qualify for the mentorship program. Some departments like the senior engineering departments ratio is even higher (around 1:90). By expanding the date range by a year we could substantially increase the amount of employees mentoring. 
+
+Modifying the eligibility query to include 01-01-1965 to 12-31-1966 yielded the orginal amount of employees from the query (1,549). It looks as Pewlett Hackard doesn't have anyone currently employed that was born in 1966.
+
+![expanded mentor eligibility2](/Resources/expanded_mentor_eligibility2.PNG)
+
+Modifying the eligibility query to include 01-01-1964 to 12-31-1965 yeilded 19,905 qualified mentors. dropping the average ratio from 1:47 to 1:4.
+
+![expanded mentor eligibility](/Resources/expanded_mentor_eligibility.PNG)
+
